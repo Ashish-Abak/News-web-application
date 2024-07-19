@@ -12,7 +12,13 @@
     position: fixed;
     align-items: center;
 }
-
+#srchtext{
+    height: 1.5rem;
+}
+#btn:hover{
+    cursor: pointer;
+    color: white;
+}
 
 .list{
     display: flex;
